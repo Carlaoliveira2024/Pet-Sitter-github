@@ -35,9 +35,6 @@ Quer ajudar a melhorar essa aplicação? Seja muito bem-vindo! Você pode:
 * **Emojis:** Use emojis para deixar o texto mais divertido e fácil de ler.
 * **Links:** Inclua links para o repositório do projeto, para a documentação e para outros recursos relevantes.
 
-**Exemplo com imagem:**
-
-[Image of a cute dog and cat]
 
 **Encontre o cuidador perfeito para o seu pet!**
 
